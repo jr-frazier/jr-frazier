@@ -26,7 +26,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the United States and I am passionate about code.
+I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the United States.
 - :telescope: I’m currently working as a Software Engineer at Digicert.
 
 - :seedling: Exploring Technical Content Writing and Youtube.
