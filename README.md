@@ -62,7 +62,6 @@ I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jr-frazier&theme=github-dark-blue)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jr-frazier&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
