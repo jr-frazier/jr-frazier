@@ -27,6 +27,8 @@
 
 ### :man_technologist: About Me :
 I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the United States.
+- 🪖 United States Marine Corps Veteran
+  
 - :telescope: I’m currently working as a Software Engineer at Digicert.
 
 - :seedling: Exploring Technical Content Writing and Youtube.
